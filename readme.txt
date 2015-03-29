@@ -18,3 +18,5 @@ Sample links to access Rest and Soap services
 2)http://localhost:8100/gcd/RestService/list
 
 3)http://localhost:8100/gcd/GCDSoapService?wsdl
+
+PS : EAR file and standlone.xml can be found the repository
